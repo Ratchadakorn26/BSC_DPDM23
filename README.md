@@ -32,6 +32,6 @@ Data preparation and data mining 2023
 
 [Quiz 9](https://github.com/Ratchadakorn26/BSC_DPDM23/blob/main/IMG_8102.jpeg)
 ## Project 👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
-[Code Project](https://github.com/Ratchadakorn26/BSC_DPDM23/blob/main/Project.ipynb)
+[Code Project]([https://github.com/Ratchadakorn26/BSC_DPDM23/blob/main/Project.ipynb](https://github.com/Ratchadakorn26/BSC_DPDM23/blob/main/Project.ipynb))
 
 [present Project](https://github.com/Ratchadakorn26/BSC_DPDM23/blob/main/present%20Project_compressed.pdf)
